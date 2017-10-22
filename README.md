@@ -1,4 +1,4 @@
-# eve-rights 0.0.1
+# eve-rights 0.0.2
 
 Handle per-item rights in a python-eve application
 

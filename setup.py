@@ -4,7 +4,7 @@
 from setuptools import setup
 
 setup(name='eve_rights',
-      version='0.0.1',
+      version='0.0.2',
       description='Handle per-item rights in your python-eve application',
       url='http://github.com/SakiiR/eve-rights',
       author='SakiiR',
