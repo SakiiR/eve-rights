@@ -73,7 +73,7 @@ class MyTokenAuth(TokenAuth):
 
     def authorized(self, allowed_roles, resource, method):
 
-        """ Validates the the current request is allowed to pass through.
+        """ check_auth's parent
 
         :param allowed_roles: allowed roles for the current request, can be a
                               string or a list of roles.
